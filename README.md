@@ -21,3 +21,8 @@ Student 3rd | CoE EN | KhonKaen U
 [👉 Facebook](https://www.facebook.com/PhanuPhoo/)
 [👉 Instagram](https://www.instagram.com/phanx_talxw/)
 [👉 LinkedIn](https://www.linkedin.com/in/phanuwat-phoowichai-89a4a9221/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanu-phoo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanu-phoo)](https://github.com/anuraghazra/github-readme-stats)
