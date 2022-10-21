@@ -3,7 +3,10 @@ Student 3rd | CoE EN | KhonKaen U
 
  - I'm Phanuwat Phoowichai
  - You can call me Taliw
- - I'm Junior at Computer Engineering, Khon Kaen University
+ - I'm student 4th at Computer Engineering, Khon Kaen University
+ - I'm software developer at ODDS (Odd-e Thailand)
+ 
+ <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
 
 ## 👀 INTERESTS
 
