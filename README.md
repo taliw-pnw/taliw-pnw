@@ -1,5 +1,5 @@
-# Hi, I’m Phanuwat
-Student 3rd | CoE EN | KhonKaen U
+# Hi, I’m Taliw [Phanuwat Ph.]
+Student 4th | CoE EN | KhonKaen U
 
  - I'm Phanuwat Phoowichai
  - You can call me Taliw
@@ -19,7 +19,7 @@ Student 3rd | CoE EN | KhonKaen U
 ## FOLLOW ME!
 ### My Website
 [🌏 Phanx](https://phanx.ga)
-[🖥 Web App Dev Class](https://phanuwat.ga)
+
 ### My Social Media
 [👉 Facebook](https://www.facebook.com/PhanuPhoo/)
 [👉 Instagram](https://www.instagram.com/phanx_talxw/)
