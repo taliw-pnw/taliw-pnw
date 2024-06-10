@@ -7,9 +7,9 @@ Degile @ ODDS|
 I graduated from Computer Engineering, Khon Kaen University. I'm a Software Developer (Web Developer and Mobile App Developer) at ODDS (Odd-e Thailand).
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [My Website](http://taliw.live)
+* 🖥️  See my portfolio at [My Website](https://taliwhub.dev)
 * ✉️  You can contact me at [taliw@odds.team](mailto:taliw@odds.team)
-* 🚀  I'm currently working on [ODDS Team in Odd-e (Thailand)](http://odds.team)
+* 🚀  I'm currently working on [ODDS-TEAM](http://odds.team)
 * 🧠  I'm learning UI Design and NextJS
 
  <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
