@@ -9,7 +9,7 @@ I graduated from Computer Engineering, Khon Kaen University. I'm a Software Deve
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [My Website](https://taliwhub.dev)
 * ✉️  You can contact me at [taliw@odds.team](mailto:taliw@odds.team)
-* 🚀  I'm currently working on [ODDS-TEAM](http://odds.team)
+* 🚀  I'm currently working on [LeSSEx](https://lessex.odds.team/), [ODDS-TEAM](http://odds.team)
 * 🧠  I'm learning UI Design and NextJS
 
  <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
