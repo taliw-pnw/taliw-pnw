@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taliw (Phanuwat Phoowichai)
 ===================================================================================================================================================
 
-Degile @ ODDS|
+Product Developer @ ODDS-TEAM
 --------------
 
 I graduated from Computer Engineering, Khon Kaen University. I'm a Software Developer (Web Developer and Mobile App Developer) at ODDS (Odd-e Thailand).
